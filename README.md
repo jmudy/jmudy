@@ -1,9 +1,5 @@
-<!--
-Generador de readme.md: https://rahuldkjain.github.io/gh-profile-readme-generator/
--->
-
 <h1 align="center">Hi 👋, I'm Jesús</h1>
-<h3 align="center">A passionate Data Analyst from Valencia</h3>
+<h3 align="center">A passionate Computer Vision Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmudy&label=Profile%20views&color=0e75b6&style=flat" alt="jmudy" /> </p>
 
@@ -18,16 +14,14 @@ Generador de readme.md: https://rahuldkjain.github.io/gh-profile-readme-generato
 - ⚡ Fun fact: **I am funny! 😄**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/jesusmudarralujan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:mudarra.jesus92@gmail.com"
-><img src="    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:mudarra.jesus92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://www.kaggle.com/jesusmudarralujan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
-&emsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,6 +38,8 @@ Generador de readme.md: https://rahuldkjain.github.io/gh-profile-readme-generato
 <a target="_blank" href="https://www.gnu.org/"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"></img></a>
 <a target="_blank" href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img></a>
  </p>
+
+<h3 align="left">My stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=jmudy&count_private=true&theme=tokyonight" alt="jmudy" /></p>
 
