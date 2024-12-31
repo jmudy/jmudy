@@ -21,7 +21,7 @@
 &emsp;
 <a target="_blank" href="https://www.kaggle.com/jesusmudarralujan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@jmudy"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
